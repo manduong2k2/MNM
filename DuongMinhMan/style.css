@@ -1,0 +1,9 @@
+/* .name ,.email{
+    display: flex;
+} */
+fieldset {
+  width: 300px;
+}
+input[type="email"],input[type="text"]{
+    width: 250px;
+}
